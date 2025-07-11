@@ -2,7 +2,7 @@
 
 This is a **Student Management System** developed using the **Spring Boot framework** following the **MVC (Model-View-Controller)** architecture. It showcases essential **CRUD operations** (Create, Read, Update, Delete) and integrates **Java, HTML, CSS, JavaScript**, and **MySQL**, representing a strong foundation in full-stack web development.
 
----
+
 
 ##  Features
 
@@ -13,7 +13,7 @@ This is a **Student Management System** developed using the **Spring Boot framew
 - Connected to a MySQL database
 - Responsive frontend with HTML/CSS/JavaScript
 
----
+
 
 ##  Technology Stack
 
