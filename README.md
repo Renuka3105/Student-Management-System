@@ -36,7 +36,7 @@ This is a **Student Management System** developed using the **Spring Boot framew
 
 ###  Tools:
 - Maven (build tool)
-- IntelliJ IDEA / Eclipse
+- IntelliJ IDEA
 - Git & GitHub
 
 
