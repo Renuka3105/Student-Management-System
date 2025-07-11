@@ -39,7 +39,7 @@ This is a **Student Management System** developed using the **Spring Boot framew
 - IntelliJ IDEA / Eclipse
 - Git & GitHub
 
----
+
 
 
 
