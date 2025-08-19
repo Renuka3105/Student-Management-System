@@ -21,7 +21,6 @@ This is a **Student Management System** developed using the **Spring Boot framew
 - Java 17+
 - Spring Boot (Spring MVC)
 - Spring Web
-- JDBC
 - MySQL
 
 ### Frontend:
